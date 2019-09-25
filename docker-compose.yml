@@ -1,0 +1,18 @@
+version: "3"
+services:
+  app:
+#    image: test/test
+#    build:
+#      context: ./dir
+#      dockerfile: Dockerfile-alternate
+#      args:
+#        buildno: 1
+#    volumes:
+#      - ./:/app
+#    working_dir: /terraform/tests
+#    depends_on:
+#      - db
+#    env_file:
+#      - test.env
+#    environment:
+#      - TEST: test
